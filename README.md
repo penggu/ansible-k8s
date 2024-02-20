@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Download the role form GitHub:
 
 ```
-ansible-galaxy install git+https://github.com/garutilorenzo/ansible-role-linux-kubernetes.git
+ansible-galaxy install git+https://github.com/penggu/ansible-k8s.git
 ```
 
 ## Role Variables
